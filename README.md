@@ -22,3 +22,9 @@ While python is a simple and easy to learn programming language, the many scient
 ## Statistics in python 
 
 We use python a lot in statistical analyses of data. There `scipy.stats` package is very useful for dealing with random variables and probability distributions. Have a look at the [PreCourse/Statistics/StatisticsInPython](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Statistics/StatisticsInPython.pdf) slides (and `StatisticsInPython.ipynb` jupyter notebook) to see some basic statistics with python. 
+
+## Mathematics for Statistics and Machine Learning
+
+While the course is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
+
+Once you have your Imperial College ID, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
