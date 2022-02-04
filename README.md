@@ -28,3 +28,7 @@ We use python a lot in statistical analyses of data. There `scipy.stats` package
 While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
 
 Once you have your Imperial College ID, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
+
+## Graduate School
+
+Once you start at Imperial,  you will have access to many courses on Research practices, skills and scientific writing from the Graduate School. You will find out more about these courses at the start of the MRes programme, but you can already take a look at the material available if you want to dig a bit deeper into courses related to the MLBD MRes here : https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/
