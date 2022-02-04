@@ -1,4 +1,4 @@
-# Machine Learning and Big Data in the Physical Sciences
+# Machine Learning and Big Data in the Physical Sciences - Pre-course Material
 
 This is the pre-course material for the Machine Learning and Big Data in the Physical Sciences MRes at Imperial College.
 
