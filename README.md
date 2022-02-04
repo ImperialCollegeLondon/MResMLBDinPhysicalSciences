@@ -25,6 +25,8 @@ We use python a lot in statistical analyses of data. There `scipy.stats` package
 
 # Other material for you to prepare for your MRes 
 
+We strongly reccomend you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help!
+
 ## Mathematics for Statistics and Machine Learning
 
 While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
