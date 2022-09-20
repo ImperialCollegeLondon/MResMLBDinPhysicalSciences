@@ -40,12 +40,12 @@ Once you start at Imperial,  you will have access to many courses on Research pr
 Specifically, the following courses will be very beneficial before you start the MLBD MRes and during your first term at the College:
 
 ### Computing and data science 
-   * [Linux command-line for scientific computing](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/linux-command-line-for-scientific-computing/)
-   * [Plotting in python with matplotlib](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/research-computing-plotting-in-python-with-matplotlib/)
-   * [Data Exploration and Visualisation](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-exploration-visualisation/)
-   * [Introduction to Sampling & Hypothesis Testing](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/sampling-hypothesis-testing/)
+   * [Linux command-line for scientific computing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/linux-command-line-for-scientific-computing/)
+   * [Plotting in python with matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/research-computing-plotting-in-python-with-matplotlib/)
+   * [Data Exploration and Visualisation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-exploration-visualisation/)
+   * [Introduction to Sampling & Hypothesis Testing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/sampling-hypothesis-testing/)
 
 ### Scientific writing & presentation skills 
-   * [Introduction to Latex](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/introduction-to-latex/)
-   * [Preparing your literature review](https://www.imperial.ac.uk/study/pg/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
-   * [Preparing your dissertation](https://www.imperial.ac.uk/study/pg/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
+   * [Introduction to Latex](ttps://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-latex/)
+   * [Preparing your literature review]ttps://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
+   * [Preparing your dissertation](ttps://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
