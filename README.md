@@ -46,6 +46,6 @@ Specifically, the following courses will be very beneficial before you start the
    * [Introduction to Sampling & Hypothesis Testing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/sampling-hypothesis-testing/)
 
 ### Scientific writing & presentation skills 
-   * [Introduction to Latex](ttps://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-latex/)
-   * [Preparing your literature review]ttps://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
-   * [Preparing your dissertation](ttps://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
+   * [Introduction to Latex](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/introduction-to-latex/)
+   * [Preparing your literature review](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
+   * [Preparing your dissertation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
