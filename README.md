@@ -17,7 +17,10 @@ First, take a look at the [PreCourse/Python/Basic_Python](https://github.com/Imp
 
 ## Scientific python
 
-While python is a simple and easy to learn programming language, the many scientific libraries available for python make it extremely powerful for machine learning and data science. Take a look through the [PreCourse/Python/Scientific_Python](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Scientific_Python.pdf) slides to learn about  `numpy` and `scipy`. You can also try out some of the exercises in the `Worksheet.ipynb` jupyter notebook to get to grips with these packages. 
+While python is a simple and easy to learn programming language, the many scientific libraries available for python make it extremely powerful for machine learning and data science. Take a look through the [PreCourse/Python/Scientific_Python](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Scientific_Python.pdf) slides to learn about  `numpy` and `scipy`. 
+
+**ADVANCED** If you're feeling like a bit of a challenge, you can also try out some of the exercises in the `Worksheet.ipynb` jupyter notebook to get to grips with these packages. There may be some concepts you aren't familiar with required for these exercises so don't worry if you can't solve them just yet!
+ 
 
 ## Statistics in python 
 
