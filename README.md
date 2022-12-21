@@ -36,6 +36,13 @@ While the MRes is focused on the practical application of machine learning and s
 
 Once you have your Imperial College ID, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
 
+The main mathematics areas to brush up on are those typically taught in undergraduate STEM courses; 
+   * Linear algebra (matrix multiplication and eigenvalues/eigenvectors) 
+   * Basic calculus (differentiation, chain rule, integration)
+   * Ordinay differential equations 
+
+These subjects will be covered in the above coursera course but some revision in these over the summer will help. 
+
 ## Graduate School skills courses 
 
 Once you start at Imperial,  you will have access to many courses on Research practices, skills and scientific writing from the Graduate School. You will find out more about these courses at the start of the MRes programme, but you can already take a look at the material available if you want to dig a bit deeper into courses related to the MLBD MRes. You can find all of the courses on the [Graduate School]([https://www.imperial.ac.uk/study/pg/graduate-school/students/masters/](https://www.imperial.ac.uk/students/academic-support/graduate-school/)) web pages.
