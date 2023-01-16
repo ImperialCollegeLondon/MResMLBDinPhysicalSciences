@@ -59,3 +59,6 @@ Specifically, the following courses will be very beneficial before you start the
    * [Introduction to Latex](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/introduction-to-latex/)
    * [Preparing your literature review](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
    * [Preparing your dissertation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
+   
+### Compulsory module 
+   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course!
