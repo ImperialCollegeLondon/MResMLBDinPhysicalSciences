@@ -45,7 +45,7 @@ These subjects will be covered in the above coursera course but some revision in
 
 ## Graduate School skills courses 
 
-Once you start at Imperial,  you will have access to many courses on Research practices, skills and scientific writing from the Graduate School. You will find out more about these courses at the start of the MRes programme, but you can already take a look at the material available if you want to dig a bit deeper into courses related to the MLBD MRes. You can find all of the courses on the [Graduate School]([https://www.imperial.ac.uk/study/pg/graduate-school/students/masters/](https://www.imperial.ac.uk/students/academic-support/graduate-school/)) web pages.
+Once you have fully enrolled at Imperial,  you will have access to many courses on Research practices, skills and scientific writing from the Graduate School. You will find out more about these courses at the start of the MRes programme, but you can already take a look at the material available if you want to dig a bit deeper into courses related to the MLBD MRes. You can find all of the courses on the [Graduate School]([https://www.imperial.ac.uk/study/pg/graduate-school/students/masters/](https://www.imperial.ac.uk/students/academic-support/graduate-school/)) web pages.
 
 Specifically, the following courses will be very beneficial before you start the MLBD MRes and during your first term at the College:
 
