@@ -2,8 +2,8 @@
 
 This is the pre-course material for the Machine Learning and Big Data in the Physical Sciences MRes at Imperial College.
 
-Whether you're familiar with python or not, we recommend you to go through the following python tutorials so that you're comfortable with
-progamming in python before you start the course.
+Python is used extensively for machine learning and analysis of large datasets both in scientific research and industry! Whether you're familiar with python or not, we strongly recommend that you review the following python tutorials so that you're comfortable with
+progamming in python before you start the course. Doing so will help you prepare for starting the course in October and to acheive more during your time at Imperial. 
 
 ## Jupyter notebooks 
 
