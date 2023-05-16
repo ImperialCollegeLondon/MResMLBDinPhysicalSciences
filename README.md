@@ -51,6 +51,9 @@ Specifically, the following courses will be very beneficial before you start the
    * [Preparing your literature review](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
    * [Preparing your dissertation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
 
+### Compulsory modules 
+   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course! Failure to complete this course can result in being unable to complete the MRes. 
+
 ## Mathematics for Statistics and Machine Learning
 
 While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
@@ -63,8 +66,5 @@ The main mathematics areas to brush up on are those typically taught in undergra
    * Ordinay differential equations 
 
 These subjects will be covered in the above coursera course but some revision in these over the summer will help. 
-
-# Compulsory modules 
-   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course! Failure to complete this course can result in being unable to complete the MRes. 
 
 
