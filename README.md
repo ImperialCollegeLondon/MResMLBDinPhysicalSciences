@@ -31,19 +31,6 @@ We use python a lot in statistical analyses of data. There `scipy.stats` package
 
 We strongly reccomend you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help!
 
-## Mathematics for Statistics and Machine Learning
-
-While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
-
-Once you have your Imperial College ID, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
-
-The main mathematics areas to brush up on are those typically taught in undergraduate STEM courses; 
-   * Linear algebra (matrix multiplication and eigenvalues/eigenvectors) 
-   * Basic calculus (differentiation, chain rule, integration)
-   * Ordinay differential equations 
-
-These subjects will be covered in the above coursera course but some revision in these over the summer will help. 
-
 ## Graduate School skills courses 
 
 Once you have fully enrolled at Imperial,  you will have access to many courses on Research practices, skills and scientific writing from the Graduate School. You will find out more about these courses at the start of the MRes programme, but you can already take a look at the material available if you want to dig a bit deeper into courses related to the MLBD MRes. You can find all of the courses on the [Graduate School]([https://www.imperial.ac.uk/study/pg/graduate-school/students/masters/](https://www.imperial.ac.uk/students/academic-support/graduate-school/)) web pages.
@@ -63,6 +50,21 @@ Specifically, the following courses will be very beneficial before you start the
    * [Introduction to Latex](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/introduction-to-latex/)
    * [Preparing your literature review](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
    * [Preparing your dissertation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
-   
-### Compulsory module 
-   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course!
+
+## Mathematics for Statistics and Machine Learning
+
+While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
+
+Once you have your Imperial College ID, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
+
+The main mathematics areas to brush up on are those typically taught in undergraduate STEM courses; 
+   * Linear algebra (matrix multiplication and eigenvalues/eigenvectors) 
+   * Basic calculus (differentiation, chain rule, integration)
+   * Ordinay differential equations 
+
+These subjects will be covered in the above coursera course but some revision in these over the summer will help. 
+
+# Compulsory modules 
+   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course! Failure to complete this course can result in being unable to complete the MRes. 
+
+
