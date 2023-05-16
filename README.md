@@ -51,7 +51,7 @@ Specifically, the following courses will be very beneficial before you start the
 
 ### Computing and data science 
    * [Linux command-line for scientific computing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/linux-command-line-for-scientific-computing/)
-   * [Plotting in python with matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/research-computing-plotting-in-python-with-matplotlib/)
+   * [Plotting in python with matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/)
    * [Data Exploration and Visualisation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-exploration-visualisation/)
    * [Introduction to Sampling & Hypothesis Testing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/sampling-hypothesis-testing/)
 
