@@ -2,9 +2,10 @@
 
 This is the pre-course material for the Machine Learning and Big Data in the Physical Sciences MRes at Imperial College.
 
-Python is used extensively for machine learning and analysis of large datasets both in scientific research and industry! Whether you're familiar with python or not, we strongly recommend that you review the following python tutorials so that you're comfortable with
-progamming in python before you start the course. Doing so will help you prepare for starting the course in October and to acheive more during your time at Imperial. 
+Python is used extensively for machine learning and analysis of large datasets both in scientific research and industry! Whether you're familiar with python or not, we **strongly recommend** that you review the following Python tutorials so that you're comfortable with
+progamming in python before you start the course. 
 
+Doing so will help you prepare for starting the course in October and to acheive more during your time at Imperial. 
 
 ## Jupyter notebooks 
 
@@ -12,17 +13,22 @@ All of the exercises in the pre-course materials are written in jupyter notebook
 
 Clicking that button will open a web browser, in which you can run the jupyter notebooks (the files ending in `.ipynb`). Note that it might take a few minutes to setup the environment for you. 
 
-## Basic python
+## Introductory python
 
-First, take a look at the [PreCourse/Python/Basic_Python](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Basic_Python.pdf) slides to learn about basic programming in python. There are four jupyter notebooks `basic_python.ipynb`, `classes.ipynb`, `exceptions.ipynb` and `lambdas.ipynb`  that will teach you about some of basic features of python that you will use during the course. 
+First, take a look at the [PreCourse/Python/Basic_Python](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Basic_Python.pdf) slides to learn about basic programming in python. There are four jupyter notebooks to work through;
+  * [`basic_python.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/basic_python.ipynb)
+  * [`classes.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/classes.ipynb)
+  * [`exceptions.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/exceptions.ipynb)
+  * [`lambdas.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/lambdas.ipynb)
+
+that will teach you about some of basic features of python that you will need during the MRes course. 
 
 ## Scientific python
 
 While python is a simple and easy to learn programming language, the many scientific libraries available for python make it extremely powerful for machine learning and data science. Take a look through the [PreCourse/Python/Scientific_Python](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Scientific_Python.pdf) slides to learn about  `numpy` and `scipy`. 
 
-**ADVANCED** If you're feeling like a bit of a challenge, you can also try out some of the exercises in the `Worksheet.ipynb` jupyter notebook to get to grips with these packages. There may be some concepts you aren't familiar with required for these exercises so don't worry if you can't solve them just yet!
+You can also attempt the exercises found in the `Worksheet.ipynb` jupyter notebook to get to grips with these packages. There may be some concepts you aren't familiar with that are required for these exercises so don't worry if you can't solve them just yet!
  
-
 ## Statistics in python 
 
 We use python a lot in statistical analyses of data. There `scipy.stats` package is very useful for dealing with random variables and probability distributions. Have a look at the [PreCourse/Statistics/StatisticsInPython](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Statistics/StatisticsInPython.pdf) slides (and `StatisticsInPython.ipynb` jupyter notebook) to see some basic statistics with python. 
@@ -31,15 +37,20 @@ We use python a lot in statistical analyses of data. There `scipy.stats` package
 
 We strongly reccomend you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help!
 
-## Graduate School skills courses 
+## Learning Python Courses 
+
+If you do not feel confident with your Python coding ability after going through the Pre-course material above, you should register for the following courses;  
+  * [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-python-online-course/) 
+  * [Object-Oriented Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/object-oriented-python/)
+ 
+Both of these courses can be followed in a Self-study mode online, and the material can be viewed once you have an Imperial College Login.  
+
+## Other Graduate School skills courses 
 
 Once you have fully enrolled at Imperial,  you will have access to many courses on Research practices, skills and scientific writing from the Graduate School. You will find out more about these courses at the start of the MRes programme, but you can already take a look at the material available if you want to dig a bit deeper into courses related to the MLBD MRes. You can find all of the courses on the [Graduate School]([https://www.imperial.ac.uk/study/pg/graduate-school/students/masters/](https://www.imperial.ac.uk/students/academic-support/graduate-school/)) web pages.
 
 Specifically, the following courses will be very beneficial before you start the MLBD MRes and during your first term at the College:
 
-### Introduction to Python 
-   * If you find that you are not comfortable with the level of python contained in the Pre-course material above, you should register for the [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-python-online-course/) online course available from the Graduate school. We reccomend doing so as soon as possible. 
-   
 ### Computing and data science 
    * [Linux command-line for scientific computing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/linux-command-line-for-scientific-computing/)
    * [Plotting in python with matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/)
@@ -58,7 +69,7 @@ Specifically, the following courses will be very beneficial before you start the
 
 While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
 
-Once you have your Imperial College ID, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
+Once you have your Imperial College Login, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
 
 The main mathematics areas to brush up on are those typically taught in undergraduate STEM courses; 
    * Linear algebra (matrix multiplication and eigenvalues/eigenvectors) 
