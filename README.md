@@ -67,7 +67,7 @@ Specifically, the following courses will be very beneficial before you start the
 
 ## Mathematics for Statistics and Machine Learning
 
-While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly reccomend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
+While the MRes is focused on the practical application of machine learning and statistics for data analysis, we can't avoid doing some mathematics. Whether you don't have a very maths based background or you feel a bit rusty on your maths, you should  brush up in these areas before you start the course. Imperial College runs an online course on coursera which we highly recommend for you "Mathematics for Machine Learning Specialization": https://www.coursera.org/specializations/mathematics-machine-learning
 
 Once you have your Imperial College Login, you will be able to access the course and we recommend you take Course 1 and Course 2 from Mathematics for Machine Learning Specialization. 
 
