@@ -13,7 +13,7 @@ All of the exercises in the pre-course materials are written in jupyter notebook
 
 Clicking that button will open a web browser, in which you can run the jupyter notebooks (the files ending in `.ipynb`). Note that it might take a few minutes to setup the environment for you. 
 
-## Introductory python
+## Introductory Python
 
 First, take a look at the [PreCourse/Python/Basic_Python](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Basic_Python.pdf) slides to learn about basic programming in python. There are four jupyter notebooks to work through;
   * [`basic_python.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/basic_python.ipynb)
@@ -35,11 +35,11 @@ We use python a lot in statistical analyses of data. There `scipy.stats` package
 
 # Other material for you to prepare for your MRes 
 
-We strongly reccomend you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help!
+We **strongly advise** you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help!
 
 ## Learning Python Courses 
 
-If you do not feel confident with your Python coding ability after going through the Pre-course material above, you should register for the following courses;  
+If you do not feel confident with your Python coding ability after going through the Pre-course material above, and you could not complete the exercises, you should register for the following courses;  
   * [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-python-online-course/) 
   * [Object-Oriented Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/object-oriented-python/)
  
