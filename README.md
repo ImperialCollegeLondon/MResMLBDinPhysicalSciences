@@ -5,6 +5,7 @@ This is the pre-course material for the Machine Learning and Big Data in the Phy
 Python is used extensively for machine learning and analysis of large datasets both in scientific research and industry! Whether you're familiar with python or not, we strongly recommend that you review the following python tutorials so that you're comfortable with
 progamming in python before you start the course. Doing so will help you prepare for starting the course in October and to acheive more during your time at Imperial. 
 
+
 ## Jupyter notebooks 
 
 All of the exercises in the pre-course materials are written in jupyter notebooks. These allow you to try out python for yourself, without needing to download anything to your laptop. You can try out any of the notebooks by clicking this button -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ImperialCollegeLondon/MResMLBDinPhysicalSciences/HEAD). 
@@ -49,6 +50,9 @@ Once you have fully enrolled at Imperial,  you will have access to many courses 
 
 Specifically, the following courses will be very beneficial before you start the MLBD MRes and during your first term at the College:
 
+### Introduction to Python 
+   * If you find that you are not comfortable with the level of python contained in the Pre-course material above, you should register for the [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-python-online-course/) online course available from the Graduate school. We reccomend doing so as soon as possible. 
+   
 ### Computing and data science 
    * [Linux command-line for scientific computing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/linux-command-line-for-scientific-computing/)
    * [Plotting in python with matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/)
