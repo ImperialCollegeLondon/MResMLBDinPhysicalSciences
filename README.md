@@ -9,7 +9,7 @@ Doing so will help you prepare for starting the course in October and to acheive
 
 ## Jupyter notebooks 
 
-All of the exercises in the pre-course materials are written in jupyter notebooks. These allow you to try out python for yourself, without needing to download anything to your laptop. You can try out any of the notebooks by clicking this button -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ImperialCollegeLondon/MResMLBDinPhysicalSciences/main). 
+All of the exercises in the pre-course materials are written in jupyter notebooks. These allow you to try out python for yourself, without needing to download anything to your laptop. You can try out any of the notebooks by clicking this button -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ImperialCollegeLondon/MResMLBDinPhysicalSciences/main?filepath=PreCourse). 
 
 Clicking that button will open a web browser, in which you can run the jupyter notebooks (the files ending in `.ipynb`). Note that it might take a few minutes to setup the environment for you. 
 
