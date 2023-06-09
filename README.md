@@ -43,7 +43,7 @@ We use python a lot in statistical analyses of data. There `scipy.stats` package
 
 # Other material for you to prepare for your MRes 
 
-We **strongly advise** you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help!
+We **strongly advise** you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help! Some of this material will not be accessible to you until you have your Imperial College logon so don't worry if you can't do those already. 
 
 ## Learning Python Courses 
 
