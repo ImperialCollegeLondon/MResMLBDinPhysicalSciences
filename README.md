@@ -35,11 +35,11 @@ that will teach you about some of basic features of python that you will need du
 
 While python is a simple and easy to learn programming language, the many scientific libraries available for python make it extremely powerful for machine learning and data science. Take a look through the [PreCourse/Python/Scientific_Python](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Scientific_Python.pdf) slides to learn about  `numpy` and `scipy`. 
 
-You can also attempt the exercises found in the `Worksheet.ipynb` jupyter notebook to get to grips with these packages. There may be some concepts you aren't familiar with that are required for these exercises so don't worry if you can't solve them just yet!
+You can also attempt the exercises found in the [`Worksheet.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Python/Worksheet.ipynb) jupyter notebook to get to grips with these packages. There may be some concepts you aren't familiar with that are required for these exercises so don't worry if you can't solve them just yet!
  
 ## Statistics in Python 
 
-We use python a lot in statistical analyses of data. There `scipy.stats` package is very useful for dealing with random variables and probability distributions. Have a look at the [PreCourse/Statistics/StatisticsInPython](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Statistics/StatisticsInPython.pdf) slides (and `StatisticsInPython.ipynb` jupyter notebook) to see some basic statistics with python. 
+We use python a lot in statistical analyses of data. There `scipy.stats` package is very useful for dealing with random variables and probability distributions. Have a look at the [PreCourse/Statistics/StatisticsInPython](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Statistics/StatisticsInPython.pdf) slides (and [`StatisticsInPython.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Statistics/StatisticsInPython.ipynb) jupyter notebook) to see some basic statistics with python. 
 
 # Other material for you to prepare for your MRes 
 
