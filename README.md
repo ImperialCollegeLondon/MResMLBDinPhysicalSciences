@@ -48,8 +48,8 @@ We **strongly advise** you to take a look at additional courses / material below
 ## Learning Python Courses 
 
 If you do not feel confident with your Python coding ability after going through the Pre-course material above, and you could not complete the exercises, you should register for the following courses;  
-  * [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-python-online-course/) 
-  * [Object-Oriented Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/object-oriented-python/)
+  * [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-python-online-course/). This is an online course that can be taken at your own pace, which you can access as soon as you have an Imperial Logon. 
+  * [Object-Oriented Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/object-oriented-python/). You can sign up to this course once you arrive at Imperial by filling in the booking form (for staff, master's and undergraduate students) on the [main RCDS courses page](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/). There course is run both in-person and online throughout the year. 
  
 Both of these courses can be followed in a Self-study mode online, and the material can be viewed once you have an Imperial College Login.  
 
