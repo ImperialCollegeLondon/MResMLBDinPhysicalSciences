@@ -71,7 +71,8 @@ Specifically, the following courses will be very beneficial before you start the
    * [Preparing your dissertation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
 
 ### Compulsory modules 
-   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course! Failure to complete this course can result in being unable to complete the MRes. 
+   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course! Failure to complete this course can result in being unable to complete the MRes.
+   * [Risk assessment foundation training](https://www.imperial.ac.uk/staff-development/safety-training/safety-courses-/risk-assessment-foundation-training-raft/) - You need to complete this course before undertaking any research project work, whether lab based or not, to understand how to properly carry out risk assessments. You should complete this course as early as possible once enrolling. 
 
 ## Mathematics for Statistics and Machine Learning
 
