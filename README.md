@@ -48,8 +48,8 @@ We **strongly advise** you to take a look at additional courses / material below
 ## Learning Python Courses 
 
 If you do not feel confident with your Python coding ability after going through the Pre-course material above, and you could not complete the exercises, you should register for the following courses;  
-  * [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/introduction-to-python-online-course/). This is an online course that can be taken at your own pace, which you can access as soon as you have an Imperial Logon. 
-  * [Object-Oriented Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/object-oriented-python/). You can sign up to this course once you arrive at Imperial by filling in the booking form (for staff, master's and undergraduate students) on the [main RCDS courses page](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/). There course is run both in-person and online throughout the year. 
+  * [Introduction to Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/introduction-to-python-online-course/). This is an online course that can be taken at your own pace, which you can access as soon as you have an Imperial Logon. 
+  * [Object-Oriented Python](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/object-oriented-python/). You can sign up to this course once you arrive at Imperial by filling in the booking form (for staff, master's and undergraduate students) on the [main RCDS courses page](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/). There course is run both in-person and online throughout the year. 
  
 Both of these courses can be followed in a Self-study mode online, and the material can be viewed once you have an Imperial College Login.  
 
@@ -60,18 +60,18 @@ Once you have fully enrolled at Imperial,  you will have access to many courses 
 Specifically, the following courses will be very beneficial before you start the MLBD MRes and during your first term at the College:
 
 ### Computing and data science 
-   * [Linux command-line for scientific computing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/linux-command-line-for-scientific-computing/)
-   * [Plotting in python with matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/plotting-in-python-with-matplotlib/)
-   * [Data Exploration and Visualisation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/data-exploration-visualisation/)
-   * [Introduction to Sampling & Hypothesis Testing](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/sampling-hypothesis-testing/)
+   * [Linux command-line for scientific computing](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/linux-command-line-for-scientific-computing/)
+   * [Plotting in python with matplotlib](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/plotting-in-python-with-matplotlib/)
+   * [Data Exploration and Visualisation](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/data-exploration-visualisation/)
+   * [Introduction to Sampling & Hypothesis Testing](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/further-hypothesis-testing/)
 
 ### Scientific writing & presentation skills 
-   * [Introduction to Latex](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/introduction-to-latex/)
-   * [Preparing your literature review](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-literature-review-online-course/)
-   * [Preparing your dissertation](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/preparing-your-dissertation-online-course/)
+   * [Introduction to Latex](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/)
+   * [Preparing your literature review](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/preparing-your-literature-review-online-course/)
+   * [Preparing your dissertation](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/preparing-your-dissertation-online-course/)
 
 ### Compulsory modules 
-   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/students/masters/professional-development/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course! Failure to complete this course can result in being unable to complete the MRes.
+   * [Plagiarism awareness](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/plagiarism-online/) - This is a compulsory module that you must take as early as possible during the course! Failure to complete this course can result in being unable to complete the MRes.
    * [Risk assessment foundation training](https://www.imperial.ac.uk/staff-development/safety-training/safety-courses-/risk-assessment-foundation-training-raft/) - You need to complete this course before undertaking any research project work, whether lab based or not, to understand how to properly carry out risk assessments. You should complete this course as early as possible once enrolling. 
 
 ## Mathematics for Statistics and Machine Learning
