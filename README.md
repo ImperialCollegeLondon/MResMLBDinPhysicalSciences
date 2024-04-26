@@ -1,6 +1,6 @@
 # Machine Learning and Big Data in the Physical Sciences - Pre-course Material
 
-This is the pre-course material for the Machine Learning and Big Data in the Physical Sciences MRes at Imperial College.
+This is the pre-course material for the Machine Learning and Big Data in the Physical Sciences MRes at Imperial College: https://www.imperial.ac.uk/physics/students/current-students/taught-postgraduates/machine-learning-big-data/ 
 
 Python is used extensively for machine learning and analysis of large datasets both in scientific research and industry! Whether you're familiar with python or not, we **strongly recommend** that you review the following Python tutorials so that you're comfortable with
 progamming in python before you start the course. 
