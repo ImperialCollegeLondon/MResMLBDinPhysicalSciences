@@ -41,7 +41,7 @@ You can also attempt the exercises found in the [`Worksheet.ipynb`](https://gith
 
 We use python a lot in statistical analyses of data. There `scipy.stats` package is very useful for dealing with random variables and probability distributions. Have a look at the [PreCourse/Statistics/StatisticsInPython](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Statistics/StatisticsInPython.pdf) slides (and [`StatisticsInPython.ipynb`](https://github.com/ImperialCollegeLondon/MResMLBDinPhysicalSciences/blob/main/PreCourse/Statistics/StatisticsInPython.ipynb) jupyter notebook) to see some basic statistics with python. 
 
-# Other material for you to prepare for your MRes 
+# Other material for you during your MRes - After you arrive at Imperial
 
 We **strongly advise** you to take a look at additional courses / material below to brush up (or learn) the skills you'll need for the MRes. Some of this will be covered again during your taught courses but having seen some of it in advance will definitely help! Some of this material will not be accessible to you until you have your Imperial College logon so don't worry if you can't do those already. 
 
