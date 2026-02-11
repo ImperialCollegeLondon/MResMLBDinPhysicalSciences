@@ -53,7 +53,7 @@ If you do not feel confident with your Python coding ability after going through
  
 Both of these courses can be followed in a Self-study mode online, and the material can be viewed once you have an Imperial College Login.  
 
-## Other Graduate School skills courses 
+## Other Imperial skills courses 
 
 Once you have fully enrolled at Imperial,  you will have access to many courses on Research practices, skills and scientific writing from the Graduate School. You will find out more about these courses at the start of the MRes programme, but you can already take a look at the material available if you want to dig a bit deeper into courses related to the MLBD MRes. You can find all of the courses on the [Early Career Research Institute]([https://www.imperial.ac.uk/early-career-researcher-institute/)) web pages.
 
